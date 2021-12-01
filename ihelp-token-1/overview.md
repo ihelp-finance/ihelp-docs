@@ -1,6 +1,6 @@
 # Overview
 
-The IHELP token’s purpose will be to** **incentivize Helpers to use the platform, as well as contribute to the long-term sustainability of the network.&#x20;
+The IHELP token’s purpose will be to **** incentivize Helpers to use the platform, as well as contribute to the long-term sustainability of the network.&#x20;
 
 The IHELP token will be a fixed-supply deflationary ERC-20 token. Supply will be capped at 27,000,000 IHELP tokens and will be distributed the following way:
 

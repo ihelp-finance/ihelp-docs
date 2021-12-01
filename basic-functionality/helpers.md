@@ -10,7 +10,7 @@ Add/Remove Capital to Donate Interest: This is the core initial feature of the p
 
 ##
 
-Directly Donate Capital**: **The protocol will also allow Helpers to donate capital directly to Charities. Direct donations will not accrue IHELP token rewards.&#x20;
+Directly Donate Capital**:** The protocol will also allow Helpers to donate capital directly to Charities. Direct donations will not accrue IHELP token rewards.&#x20;
 
 ![](https://lh6.googleusercontent.com/Gn5jk36MhrR45JX1gGH2iG9lNaS6lTK8G6YaD0OGZ5tBGrkeWiTShlohpd2Sq2s0uzjaLLwDTnig5UCzKDoiN3Nro1Z1KNTqxi07HR8z7RDDtXS9zL1FVkqJfs2RfgFlktXxCaRT=s0)
 
@@ -26,7 +26,7 @@ Claim IHELP tokens: Helpers will accrue IHELP tokens when contributing capital f
 
 ##
 
-Stake/Unstake IHELP Tokens:** **IHELP token holders will be able to stake their tokens in exchange for their pro-rata share of the funds that have flowed into the Staking Rewards wallet. IHELP token holders will be able to view the accrual total and claim it at their convenience. Helpers will be able to withdraw their staked tokens at any time. \
+Stake/Unstake IHELP Tokens: **** IHELP token holders will be able to stake their tokens in exchange for their pro-rata share of the funds that have flowed into the Staking Rewards wallet. IHELP token holders will be able to view the accrual total and claim it at their convenience. Helpers will be able to withdraw their staked tokens at any time. \
 ****
 
 ![](https://lh3.googleusercontent.com/jt2IrdzflsqE04PdzthhedA2WtYu96pzoX-6\_ueQttpPZLVfEXa9qqRoy0fDNnA\_mDFPrh-7x3Yzi7K9lkO3CwqmBSjCrZQfjuUh1eKRIym0j9P-hczkbRZmU1P3A7iMbplJ9gTZ=s0)

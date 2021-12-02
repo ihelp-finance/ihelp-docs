@@ -20,15 +20,16 @@
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
 
-## IHELP Token <a href="ihelp-token-1" id="ihelp-token-1"></a>
+## IHELP Token <a href="#ihelp-token-1" id="ihelp-token-1"></a>
 
 * [Overview](ihelp-token-1/overview.md)
 * [Distribution Phases](ihelp-token-1/distribution-phases.md)
 * [Staking Pool](ihelp-token-1/staking-pool.md)
 
-## Smart Contracts <a href="developer-docs" id="developer-docs"></a>
+## Smart Contracts <a href="#developer-docs" id="developer-docs"></a>
 
 * [Deployed Contracts](developer-docs/smart-contract-architecture.md)
+* [Off-Chain Processes](developer-docs/off-chain-processes.md)
 * [Smart Contract References](developer-docs/smart-contract-references.md)
 * [Addresses](developer-docs/addresses.md)
 * [Security & Audits](developer-docs/audits.md)

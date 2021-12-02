@@ -10,7 +10,7 @@ Charitable giving can accelerate the adoption of crypto and make it a force for 
 
 
 
-Source
+[Source](https://philanthropynetwork.org/news/giving-usa-2021-year-unprecedented-events-and-challenges-charitable-giving-reached-record-47144)
 
 ##
 

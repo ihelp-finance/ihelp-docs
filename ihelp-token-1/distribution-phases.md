@@ -4,11 +4,7 @@ There will be 20 distinct phases of 1,000,000 IHELP tokens each, for a total of 
 
 ![](<../.gitbook/assets/4 (1).png>)
 
-
-
-![](<../.gitbook/assets/5 (1).png>)
-
-
+![](<../.gitbook/assets/interest donated per phase (2).png>)
 
 ![](<../.gitbook/assets/6 (1).png>)
 

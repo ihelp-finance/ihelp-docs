@@ -2,14 +2,14 @@
 
 **On-Chain Functionality**
 
-Claim Donations**:** A charity will be able to connect their wallet and see their total accrued donations. Charities will be able to claim their donations at any time. Charities that have been archived will be able to claim their donations at any time as well. Donations will be available for withdrawal indefinitely.&#x20;
+Claim Donations**:** A charity will be able to connect their custody account to the protocol via an OAuth in order for the protocol to distribute their donated proceeds. Charities will be able to choose whether to keep their donated proceeds in crypto or auto-convert to USD.&#x20;
 
-Withdraw from Protocol: **** A charity will be able to remove itself from the protocol at any time. The charity will technically move itself to an archived status, where any unclaimed rewards will still be available for withdrawal. \
+Withdraw from Protocol: **** A charity will be able to remove itself from the protocol at any time. The charity will technically move itself to an archived status, and any accrued donations up until that point will be distributed to their custody account.\
 ****
 
 **Off-Chain Functionality**
 
-Request to Join Protocol**:** Charities can propose to join the protocol. The iHelp DAO will be responsible for accepting or rejecting the proposal. The proposal will include all the minimum required information to review the charity and to list on protocol.&#x20;
+Request to Join Protocol**:** Charities can request to join the protocol by filling out the sign-up form on the iHelp website. The iHelp DAO will be responsible for vetting charities and deciding on accepting or rejecting the sign up request. The proposal will include all the minimum required information to review the charity and to list on protocol.&#x20;
 
 ![](https://lh5.googleusercontent.com/lQgrYyiNUqOFYM\_zC11O5XzR6Heb\_Ki17aeLDy8JQ1Whl-\_Afgq2VWP0Doc9uVnuN1LNjwudCmafrjcKVZI5rnfMV7hXzVgx5uxH74l8RwLr3khBXAmIzvLxG1fI3xxxM2jVg59-=s0)
 

@@ -16,7 +16,7 @@ The iHelp DAO will approve and on-board select charities to the protocol. In ord
 
 Approved charities will be assigned individual smart contracts and deployed on to the protocol by the iHelp DAO. Helpers are able to view, select, and contribute their capital to all approved charity pools. &#x20;
 
-Once a Helper makes a contribution to their desired charity; the protocol will pool the allocated capital together and lend it out on a blue chip lending protocol such as Compound.The protocol will be upgraded to support multiple coins and lending protocols on the Ethereum Mainnet.&#x20;
+Once a Helper makes a contribution to their desired charity; the protocol will pool the allocated capital together and lend it out on a blue chip lending protocol such as Compound.The protocol will support contributions in multiple cryptocurrencies.&#x20;
 
 When contributing capital to a charity pool, 80% of the accrued interest will be allocated to the charitable entities the Helpers selected. The remaining 20% of the accrued interest will be distributed 15% to a staking pool and 5% to the iHelp DAO treasury. Helpers can withdraw their allocated capital at any time. Helpers will be rewarded with iHelp tokens when contributing capital to charity pools.&#x20;
 

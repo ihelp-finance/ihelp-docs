@@ -4,6 +4,6 @@ The iHelp protocol’s smart contracts will be initially deployed on the Ethereu
 
 The protocol will also allow users to donate principal directly to charities. We prefer capital to accumulate and donate accrued interest as this is a long-term sustainable win-win for both capital contributors (_“Helpers”_) and charitable organizations. However, in certain circumstances and emergencies, it may be most appropriate to also contribute principal directly to charities.
 
-The protocol will enable Helpers the option to receive a tax receipt for their donation, potentially allowing them to claim a tax deduction. Since the allocated capital is continuously generating interest that’s donated to their desired charitable causes, the Helper, depending on their individual circumstances, could continuously generate a tax-deduction.
+The protocol will enable Helpers the option to receive a tax receipt for their donations, potentially allowing them to claim a tax deduction. Since the allocated capital is continuously generating interest that’s donated to their desired charitable causes, the Helper, depending on their individual circumstances, could continuously generate a tax-deduction.
 
 ##

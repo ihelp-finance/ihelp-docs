@@ -1,9 +1,5 @@
 # Staking Pool
 
-
-
-To start staking, an IHELP token holder will need to deposit their IHELP token in the IHELP staking contract. Once deposited they will start earning a pro rata share of the interest donation and direct donation fees. Their IHELP stake will earn a share of the fees equal to their share of the total IHELP staked, at the block the fee occurred. You can withdraw your staked IHELP at any time.
-
 XHELP will be the LP Claim token for the IHELP staking pool. When you stake your IHELP, you effectively exchange your IHELP for XHELP. Over time, you’ll always earn more IHELP by holding XHELP tokens. This is because for every donation on the iHelp Protocol, a fee is charged and sent to the XHELP pool. The fee is set at 15% of interest donations and 2.5% of direct donations. This fee is used to buy back IHELP tokens periodically in the open market. Initially, the protocol will execute buy-backs on a weekly basis. So when you exchange your XHELP for IHELP, you'll get the original IHELP deposited plus your pro-rata share of protocol staking fees.
 
 To explain further, a Helper would deposit 1 IHELP in the pool and receive the LP Claim Token (XHELP). As rewards in the pool grow, the deposit token’s balance (XHELP) will remain unchanged, yet its presence in the address will trigger accrual of IHELP (IHELP) tokens to reflect growth of rewards in the pool. The pool will progressively own more IHELP rewards than it started thanks to its programmatic IHELP buybacks funded by the staking fees. Let’s look at an example:

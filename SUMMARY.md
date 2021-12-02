@@ -28,7 +28,7 @@
 
 ## Smart Contracts <a href="#developer-docs" id="developer-docs"></a>
 
-* [Deployed Contracts](developer-docs/smart-contract-architecture.md)
+* [Deployed Contracts](developer-docs/deployed-contracts.md)
 * [Off-Chain Processes](developer-docs/off-chain-processes.md)
 * [Smart Contract References](developer-docs/smart-contract-references.md)
 * [Addresses](developer-docs/addresses.md)

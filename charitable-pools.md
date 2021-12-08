@@ -12,7 +12,7 @@ The iHelp DAO will approve and on-board select charities to the protocol. In ord
 * Key Contact Person Email
 * Country of Incorporation&#x20;
 * Tax ID number &#x20;
-* Wallet Address (if available)
+* Charity Account Number
 
 Approved charities will be assigned individual smart contracts and deployed on to the protocol by the iHelp DAO. Helpers are able to view, select, and contribute their capital to all approved charity pools. &#x20;
 

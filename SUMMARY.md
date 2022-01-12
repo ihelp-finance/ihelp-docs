@@ -9,7 +9,7 @@
 
 * [Donation Mechanisms](donation-mechanisms.md)
 * [Charity Pools](charitable-pools.md)
-* [IHELP Token](ihelp-token.md)
+* [HELP Token](ihelp-token.md)
 * [Leaderboard](leaderboard.md)
 * [Donation Distribution](donation-distribution.md)
 * [Protocol Diagram](protocol-diagram.md)

@@ -10,11 +10,11 @@ description: >-
 
 {% tabs %}
 {% tab title="Avalanche" %}
-**iHelp:** 0xdB7cc7aa997fa2B645eDb4ea3d85e446dAC251dA
+**iHelp:** [0xdB7cc7aa997fa2B645eDb4ea3d85e446dAC251dA](https://snowtrace.io/address/0xdB7cc7aa997fa2B645eDb4ea3d85e446dAC251dA)
 
-**xHelp:** 0x8769bDF8fCB084d50EC0908187ABB771FA258836
+**xHelp:** [0x8769bDF8fCB084d50EC0908187ABB771FA258836](https://snowtrace.io/address/0x8769bDF8fCB084d50EC0908187ABB771FA258836)
 
-**Swapper:** 0x091938Da577c8F5FD15C23366c7B05646ca78075
+**Swapper:** [0x091938Da577c8F5FD15C23366c7B05646ca78075](https://snowtrace.io/address/0x091938da577c8f5fd15c23366c7b05646ca78075)
 
 **CharityPools:** available on dapp
 {% endtab %}
@@ -26,7 +26,7 @@ description: >-
 
 **Swapper:** [0xA5BdA24293F81aDD572f2541b3A4f8D59Abf8cBb](https://rinkeby.etherscan.io/address/0xA5BdA24293F81aDD572f2541b3A4f8D59Abf8cBb)
 
-**CharityPools:** available on dapp (currently 3 charities)
+**CharityPools:** available on dapp
 {% endtab %}
 {% endtabs %}
 
@@ -34,13 +34,17 @@ description: >-
 
 {% tabs %}
 {% tab title="Avalanche" %}
-**DAI.e:**&#x20;
+**DAI.e:** [0xd586E7F844cEa2F87f50152665BCbc2C279D8d70](https://snowtrace.io/address/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70)
 
-**USDC.e:**&#x20;
+**USDC.e:** [0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664](https://snowtrace.io/address/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664)
 
-**jDAI:**&#x20;
+**jDAI:** [0xc988c170d0E38197DC634A45bF00169C7Aa7CA19](https://snowtrace.io/address/0xc988c170d0E38197DC634A45bF00169C7Aa7CA19)
 
-**jUSDC:**&#x20;
+**jUSDC:** [0xEd6AaF91a2B084bd594DBd1245be3691F9f637aC](https://snowtrace.io/address/0xEd6AaF91a2B084bd594DBd1245be3691F9f637aC)
+
+**avDAI:** [0x47AFa96Cdc9fAb46904A55a6ad4bf6660B53c38a](https://snowtrace.io/address/0x47AFa96Cdc9fAb46904A55a6ad4bf6660B53c38a)
+
+**avUSDC:** [0x46A51127C3ce23fb7AB1DE06226147F446e4a857](https://snowtrace.io/address/0x46A51127C3ce23fb7AB1DE06226147F446e4a857)
 {% endtab %}
 
 {% tab title="Rinkeby" %}
@@ -56,9 +60,15 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-## Liquidity Pools
+## Exchanges / Liquidity Pools
 
 {% tabs %}
+{% tab title="Avalanche" %}
+**TraderJoe Router:** [0x60aE616a2155Ee3d9A68541Ba4544862310933d4](https://snowtrace.io/address/0x60aE616a2155Ee3d9A68541Ba4544862310933d4)
+
+**TraderJoe Factory:** [0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10](https://snowtrace.io/address/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10) ****&#x20;
+{% endtab %}
+
 {% tab title="Rinkeby" %}
 **DAI / HELP:** [0x19E64174e9edB9E249b503c196F4A73815A6719e](https://rinkeby.etherscan.io/address/0x19E64174e9edB9E249b503c196F4A73815A6719e)
 {% endtab %}

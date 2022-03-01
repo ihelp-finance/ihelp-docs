@@ -4,13 +4,13 @@ There will be 20 distinct phases of 1,000,000 IHELP tokens each, for a total of 
 
 
 
-![](../.gitbook/assets/UpdatedTokenTable.png)
+![](<../.gitbook/assets/distrib phases (2).png>)
+
+
 
 The formula to calculate the interest donated for any phase is:
 
 ![](../.gitbook/assets/formula.jpg)
-
-
 
 
 

@@ -1,18 +1,6 @@
 # Charity Pools
 
-The iHelp DAO will approve and on-board select charities to the protocol. In order to be considered, charities will have a form available to them that will request the following information: &#x20;
-
-* Organization Name
-* Brief Description & History
-* Uses of Donated Funds&#x20;
-* Countries of Operation
-* Category
-* Organization Logo
-* Key Contact Person Name
-* Key Contact Person Email
-* Country of Incorporation&#x20;
-* Tax ID number &#x20;
-* Charity Account Number
+The iHelp DAO will approve and on-board select charities to the protocol.
 
 Approved charities will be assigned individual smart contracts and deployed on to the protocol by the iHelp DAO. Helpers are able to view, select, and contribute their capital to all approved charity pools. &#x20;
 

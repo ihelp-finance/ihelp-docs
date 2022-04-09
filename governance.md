@@ -26,7 +26,7 @@ The iHelp Protocol will be managed by the iHelp DAO. The protocol will be progre
 
 
 
-**Governance Structure Long-Temr**
+**Governance Structure Long-Term**
 
 \-Decentralized on-chain governance structure in the hands of XHELP holders.&#x20;
 

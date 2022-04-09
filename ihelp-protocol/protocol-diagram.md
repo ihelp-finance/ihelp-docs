@@ -4,5 +4,5 @@ The following diagram showcases the iHelp protocol and its interaction between H
 
 
 
-![](.gitbook/assets/diagramtwo.jpg)
+![](../.gitbook/assets/diagramtwo.jpg)
 

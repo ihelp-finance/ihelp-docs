@@ -29,7 +29,7 @@ Claim IHELP tokens: Helpers will accrue IHELP tokens when contributing capital f
 Stake/Unstake IHELP Tokens: **** IHELP token holders will be able to stake their tokens in exchange for their pro-rata share of the funds that have flowed into the Staking Rewards wallet. IHELP token holders will be able to view the accrual total and claim it at their convenience. Helpers will be able to withdraw their staked tokens at any time. \
 ****
 
-![](<../.gitbook/assets/iHelp Development Figma Folder (5) (1).png>)
+![](<../../.gitbook/assets/iHelp Development Figma Folder (5) (1).png>)
 
 ##
 

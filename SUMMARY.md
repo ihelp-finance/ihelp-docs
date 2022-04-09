@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Philanthropy Industry](philanthropy-industry.md)
 
-## Getting Started
+## Donations <a href="#getting-started" id="getting-started"></a>
 
 ***
 

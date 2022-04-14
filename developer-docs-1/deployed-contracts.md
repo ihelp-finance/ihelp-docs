@@ -1,10 +1,8 @@
 ---
-description: Description and overview of contracts deployed on various blockchains
+description: Description and overview of the IHELP Foundation
 ---
 
 # Introduction
-
-###
 
 The IHELP Foundation's purpose is to serve the IHELP protocol. The Foundation serves as a key piece of infrastructure for two reasons: (i) it acts as the main point of converting crypto donations to fiat when needed, and (ii) it handles the delivery of donations to charities that do not have crypto wallets.
 

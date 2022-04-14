@@ -11,7 +11,6 @@
 * [Charity Pools](charitable-pools.md)
 * [HELP Token](ihelp-token.md)
 * [Donation Distribution](donation-distribution.md)
-* [IHELP Foundation](ihelp-foundation.md)
 
 ## IHELP Protocol
 

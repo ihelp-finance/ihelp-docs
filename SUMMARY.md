@@ -38,6 +38,10 @@
 * [Addresses](developer-docs/addresses.md)
 * [Security & Audits](developer-docs/audits.md)
 
+## IHELP Foundation <a href="#developer-docs" id="developer-docs"></a>
+
+* [Introduction](developer-docs-1/deployed-contracts.md)
+
 ## ECOSYSTEM
 
 * [Official Links](ecosystem/official-links.md)

@@ -1,16 +1,16 @@
 # Governance
 
-The iHelp Protocol will be managed by the iHelp DAO. The protocol will be progressively decentralized in phases and governance handed over to the XHELP token holders.
+The iHelp Protocol will be managed by the iHelp DAO. The protocol will be decentralized and governance will be in the hands of  XHELP token holders.
 
 ****
 
 **Governance Activities**&#x20;
 
-\-Treasury Management
-
 \-Adding/Archiving Charities
 
-\-Upgrading Smart Contracts&#x20;
+\-Treasury Management
+
+\-Contract upgrades to modify protocol or token parameters.&#x20;
 
 
 

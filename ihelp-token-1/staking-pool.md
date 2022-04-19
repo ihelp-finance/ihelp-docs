@@ -8,7 +8,7 @@ For every donation processed via IHELP, **** a portion  is set aside and accrued
 
 The percentage distributed to the staking pool is as follows:&#x20;
 
-* Yield donations - 15% of yield donated
+* Yield donations - 10% of yield donated
 * Direct donations - 2.5% of capital donated&#x20;
 
 ### **How to Stake into XHELP**

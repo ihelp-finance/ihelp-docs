@@ -17,7 +17,6 @@
 * [Protocol Diagram](protocol-diagram.md)
 * [Basic Functionality](basic-functionality/README.md)
   * [Helpers](basic-functionality/helpers.md)
-  * [Charities](basic-functionality/charities.md)
   * [Protocol](basic-functionality/protocol.md)
 * [Leaderboard](leaderboard.md)
 * [Governance](governance.md)

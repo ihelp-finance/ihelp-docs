@@ -4,8 +4,8 @@
 [helpers.md](helpers.md)
 {% endcontent-ref %}
 
-{% content-ref url="charities.md" %}
-[charities.md](charities.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="protocol.md" %}

@@ -24,7 +24,7 @@
 
 ## IHELP Token <a href="#ihelp-token-1" id="ihelp-token-1"></a>
 
-* [Overview](ihelp-token-1/overview.md)
+* [Allocations](ihelp-token-1/overview.md)
 * [Distribution Phases](ihelp-token-1/distribution-phases.md)
 * [Staking Pool](ihelp-token-1/staking-pool.md)
 

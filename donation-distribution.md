@@ -12,6 +12,8 @@ For any given amount of principal that is directly donated by a Helper to a Char
 * **2.5% Staking Rewards**: These rewards will be claimable by token holders that stake their IHELP tokens in the staking pool. This is the main mechanism to incentivize use of the protocol outside of the core reward of providing assistance to a worthwhile philanthropic cause.
 * **2.5% iHelp Protocol Development:** Will be distributed to the IHELP DAO treasury.&#x20;
 
+****
+
 **Comparison of Allocation of Interest by Donation Mechanism**
 
 |                   | **Interest Donation** | **Direct Donation** |

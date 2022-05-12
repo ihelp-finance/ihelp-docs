@@ -4,7 +4,7 @@ description: Description and overview of contracts deployed on various blockchai
 
 # Deployed Contracts
 
-### iHelp (ERC20Upgradeable)
+### IHelp (ERC20Upgradeable)
 
 The primary Protocol ERC20 Upgradeable contract that drives HELP token issuance, phase control, contribution tracking, _dripping_ of HELP tokens based on latest aggregate contributions across all charities and finally _dumping_ the accumulated interest to the respective charity pools, swappers and staking/development pools.
 

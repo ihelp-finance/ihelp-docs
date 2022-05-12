@@ -8,8 +8,6 @@
 ***
 
 * [Donation Mechanisms](donation-mechanisms.md)
-* [Charity Pools](charitable-pools.md)
-* [HELP Token](ihelp-token.md)
 * [Donation Distribution](donation-distribution.md)
 
 ## IHELP Protocol
@@ -22,8 +20,9 @@
 * [Governance](governance.md)
 * [Roadmap](roadmap.md)
 
-## IHELP Token <a href="#ihelp-token-1" id="ihelp-token-1"></a>
+## HELP Token <a href="#ihelp-token-1" id="ihelp-token-1"></a>
 
+* [Introduction](ihelp-token-1/ihelp-token.md)
 * [Allocations](ihelp-token-1/overview.md)
 * [Distribution Phases](ihelp-token-1/distribution-phases.md)
 * [Staking Pool](ihelp-token-1/staking-pool.md)

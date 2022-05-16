@@ -17,8 +17,8 @@
   * [Helpers](basic-functionality/helpers.md)
   * [Protocol](basic-functionality/protocol.md)
 * [Leaderboard](leaderboard.md)
-* [Governance](governance.md)
 * [Roadmap](roadmap.md)
+* [Governance](governance.md)
 
 ## HELP Token <a href="#ihelp-token-1" id="ihelp-token-1"></a>
 

@@ -6,9 +6,9 @@ The amount of yield required to receive one HELP token increases by 2x in each p
 
 The IHELP protocol tracks the total sum of yield donated to all charities measured in USD employing a Chainlink Oracle.
 
-Below you will find the detailed distribution schedule by phase at the protocol's launch. The community will be able to accelerate or slow down the emissions rate of user rewards/incentives via a governance vote. The total number of tokens to distribute via rewards is fixed and cannot be modified.&#x20;
+&#x20;The community will be able to accelerate or slow down the emissions rate of user rewards/incentives via a governance vote. The total number of tokens to distribute via rewards is fixed and cannot be modified.
 
-
+Below you will find the detailed distribution schedule by phase at the protocol's launch.
 
 ![](<../.gitbook/assets/UpdatedTokenPhases (1).png>)
 

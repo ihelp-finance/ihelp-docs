@@ -4,7 +4,7 @@ Charitable giving is growing steadily year over year. 2020 was the highest year 
 
 Total charitable giving grew 5.1% in 2020 measured in current dollars versus 2019, or 3.8% adjusted for inflation.
 
-Charitable giving natively integrated into DeFi can contribute to it becoming more of a force for good in the world. IHELP leverages the DeFi ecosystem with real-world infrastructure to deliver increased transparency, lower overhead and customer acquisition costs to charities, and involve a genuinely global and borderless audience to make the world a better place.
+IHELP leverages the Web3 ecosystem with real-world infrastructure to deliver increased transparency, lower overhead and customer acquisition costs to charities, and involve a genuinely global and borderless audience to make the world a better place.
 
 
 

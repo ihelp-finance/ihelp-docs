@@ -38,6 +38,7 @@
 ## IHELP Foundation <a href="#developer-docs" id="developer-docs"></a>
 
 * [Introduction](developer-docs-1/deployed-contracts.md)
+* [Tax Deductions](developer-docs-1/tax-deductions.md)
 
 ## ECOSYSTEM
 

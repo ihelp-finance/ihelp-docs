@@ -1,6 +1,6 @@
 # Security & Audits
 
-The iHelp Protocol smart contracts are being developing with security at the forefront of the various design and development decisions. The goal of the Protocol with regards to security is to provide complete dependability to our contributors, charities and the broader ecosystem engaging with the system.
+The iHelp Protocol smart contracts are being developed with security at the forefront of the various design and development decisions. The goal of the Protocol with regards to security is to provide complete dependability to our contributors, charities and the broader ecosystem engaging with the system.
 
 ### Security Audits
 

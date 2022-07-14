@@ -1,10 +1,10 @@
 # Official Links
 
-**Landing page:** [https://ihelp.finance/](https://ihelp.finance)
+**Landing page:** [https://ihelp.finance/](https://ihelp.finance/)
 
-**Dapp (rinkeby testnet):** [https://rinkeby.ihelp.finance/](https://rinkeby.ihelp.finance)
+**Dapp (rinkeby testnet):** [https://rinkeby.ihelp.finance/](https://rinkeby.ihelp.finance/)
 
-**Medium:** [https://ihelp-finance.medium.com/](https://ihelp-finance.medium.com)
+**Medium:** [https://ihelp-finance.medium.com/](https://ihelp-finance.medium.com/)
 
 **Github:** [https://github.com/iHelp-Finance](https://github.com/iHelp-Finance)
 

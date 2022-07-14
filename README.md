@@ -5,4 +5,4 @@ IHELP serves the intersection of Web3 and charitable giving. IHELP is a decentra
 The following document describes IHELP's fundamental design, roadmap, and different aspects of its implementation.\
 
 
-![](<.gitbook/assets/IHELPLogoAllCapsDBEditAsset 1.png>)
+![](<.gitbook/assets/ihelpheartonlyAsset 1mdpi.png>)

@@ -19,3 +19,7 @@ This is a primary custom contract developed to support charity contributions fro
 ### Swapper
 
 The Swapper contract is specifically designed to handle exchanges from CharityPool contract tokens that do NOT match the underlying token of a specific exchange destination. For example, if a CharityPool is deployed as DAI pool, it is assumed the charity will receive their donation generated from interest / lending protocol will also be in DAI. Since the staking and developer pools for the iHelp Protocol are currently in DAI, no swapping is necessary in these situations. If the CharityPool is deployed as a USDC pool, the charity will receive their donation in USDC, but the Swapping contract is called before the staking and developer shares are sent to the DAI holding wallets.
+
+### Analytics
+
+The Analytics contract provides a single location from which to pull all read-only stats and metrics from the protocol, user and/or charity pools.

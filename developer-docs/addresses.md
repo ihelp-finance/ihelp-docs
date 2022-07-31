@@ -19,18 +19,6 @@ description: >-
 **CharityPools:** available on dapp
 {% endtab %}
 
-{% tab title="Kovan" %}
-**iHelp:** [0x6A178002F2C8624a07657d23785F478B78235C0B](https://kovan.etherscan.io/address/0x6A178002F2C8624a07657d23785F478B78235C0B)&#x20;
-
-**xHelp:** [0xbaDEE168D3b7B9Eb241E9Fd5567db5Aa88a4b36c](https://kovan.etherscan.io/address/0xbaDEE168D3b7B9Eb241E9Fd5567db5Aa88a4b36c)&#x20;
-
-**Swapper:** [0x49f210d938fD16FefC48Dda640905f055A40A0EE](https://kovan.etherscan.io/address/0x49f210d938fD16FefC48Dda640905f055A40A0EE)&#x20;
-
-**Analytics:** [0xf80f19252fF389037dA40f7701844e780C2b3C08](https://kovan.etherscan.io/address/0xf80f19252fF389037dA40f7701844e780C2b3C08)
-
-**CharityPools:** available on dapp
-{% endtab %}
-
 {% tab title="Rinkeby" %}
 **iHelp:** [0x5c859ebD9e20Ea702f19B131FdaAdEF84464921E](https://rinkeby.etherscan.io/address/0x5c859ebD9e20Ea702f19B131FdaAdEF84464921E)
 
@@ -59,28 +47,6 @@ description: >-
 **avUSDC:** [0x46A51127C3ce23fb7AB1DE06226147F446e4a857](https://snowtrace.io/address/0x46A51127C3ce23fb7AB1DE06226147F446e4a857)
 {% endtab %}
 
-{% tab title="Kovan" %}
-**DAI:** [0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa](https://kovan.etherscan.io/address/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa)
-
-**USDC:** [0xb7a4F3E9097C08dA09517b5aB877F7a917224ede](https://kovan.etherscan.io/address/0xb7a4F3E9097C08dA09517b5aB877F7a917224ede)
-
-**USDT:** [0x07de306FF27a2B630B1141956844eB1552B956B5](https://kovan.etherscan.io/address/0x07de306FF27a2B630B1141956844eB1552B956B5)
-
-**BAT:** [0x482dC9bB08111CB875109B075A40881E48aE02Cd](https://kovan.etherscan.io/address/0x482dC9bB08111CB875109B075A40881E48aE02Cd)
-
-**ZRX:** [0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3](https://kovan.etherscan.io/address/0x162c44e53097e7B5aaE939b297ffFD6Bf90D1EE3)
-
-**cDAI:** [0xf0d0eb522cfa50b716b3b1604c4f0fa6f04376ad](https://kovan.etherscan.io/address/0xf0d0eb522cfa50b716b3b1604c4f0fa6f04376ad)
-
-**cUSDC:** [0x4a92E71227D294F041BD82dd8f78591B75140d63](https://kovan.etherscan.io/address/0x4a92e71227d294f041bd82dd8f78591b75140d63)
-
-**cUSDT:** [0x3f0A0EA2f86baE6362CF9799B523BA06647Da018](https://kovan.etherscan.io/address/0x3f0A0EA2f86baE6362CF9799B523BA06647Da018)
-
-**cBAT:** [0x4a77fAeE9650b09849Ff459eA1476eaB01606C7a](https://kovan.etherscan.io/address/0x4a77fAeE9650b09849Ff459eA1476eaB01606C7a)
-
-**cZRX:** [0xAf45ae737514C8427D373D50Cd979a242eC59e5a](https://kovan.etherscan.io/address/0xAf45ae737514C8427D373D50Cd979a242eC59e5a)
-{% endtab %}
-
 {% tab title="Rinkeby" %}
 **DAI:** [0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa](https://rinkeby.etherscan.io/address/0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa)****
 
@@ -101,12 +67,6 @@ description: >-
 **TraderJoe Router:** [0x60aE616a2155Ee3d9A68541Ba4544862310933d4](https://snowtrace.io/address/0x60aE616a2155Ee3d9A68541Ba4544862310933d4)
 
 **TraderJoe Factory:** [0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10](https://snowtrace.io/address/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10) ****&#x20;
-{% endtab %}
-
-{% tab title="Kovan" %}
-**UniSwap Router:** [0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D](https://kovan.etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D)
-
-**UniSwap Factory:** [0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f](https://kovan.etherscan.io/address/0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f)
 {% endtab %}
 
 {% tab title="Rinkeby" %}

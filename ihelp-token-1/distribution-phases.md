@@ -10,6 +10,8 @@ The IHELP protocol tracks the total sum of yield donated to all charities measur
 
 Below you will find the detailed distribution schedule by phase at the protocol's launch.
 
-<figure><img src="../.gitbook/assets/DistributionPhases.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/DistributionPhases (2).png" alt=""><figcaption></figcaption></figure>
 
 ## ****

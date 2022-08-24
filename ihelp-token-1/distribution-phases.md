@@ -1,6 +1,6 @@
 # Distribution Phases
 
-There are 13 distinct phases of 1,000,000 HELP tokens each, for a total of 13,000,000 HELP tokens to be distributed to donors as a reward for donating yield through the protocol.&#x20;
+There are 10 distinct phases of 1,000,000 HELP tokens each, for a total of 10,000,000 HELP tokens to be distributed to donors as a reward for donating yield through the protocol.&#x20;
 
 The amount of yield required to receive one HELP token increases by 2x in each phase (see table below). In Phase 1 users will receive one HELP token for every $0.60 of yield donated to charities. In Phase 2, the yield donation requirement to receive one HELP token doubles to $1.20.
 
@@ -10,6 +10,6 @@ The IHELP protocol tracks the total sum of yield donated to all charities measur
 
 Below you will find the detailed distribution schedule by phase at the protocol's launch.
 
-![](<../.gitbook/assets/UpdatedTokenPhases (1).png>)
+<figure><img src="../.gitbook/assets/DistributionPhases.png" alt=""><figcaption></figcaption></figure>
 
 ## ****

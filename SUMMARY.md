@@ -31,7 +31,6 @@
 
 * [Deployed Contracts](developer-docs/deployed-contracts.md)
 * [Off-Chain Processes](developer-docs/off-chain-processes.md)
-* [Smart Contract References](developer-docs/smart-contract-references.md)
 * [Addresses](developer-docs/addresses.md)
 * [Security & Audits](developer-docs/audits.md)
 

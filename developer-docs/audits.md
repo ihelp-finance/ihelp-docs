@@ -4,7 +4,11 @@ The iHelp Protocol smart contracts are being developed with security at the fore
 
 ### Security Audits
 
-iHelp intends to complete a rigorous assessment of the smart contracts in the first half of 2022. Development of these contracts if following best practices to the extent possible, especially those as outlined and maintained by [ConsenSys Diligence](https://consensys.github.io/smart-contract-best-practices/).
+iHelp has completed an internal audit for review at the link below:
+
+* [https://github.com/ihelp-finance/ihelp-contracts/blob/master/audits/iHelpAuditReport.pdf](https://github.com/ihelp-finance/ihelp-contracts/blob/master/audits/iHelpAuditReport.pdf)
+
+iHelp intends to complete a rigorous assessment of the smart contracts in the end of 2023. Development of these contracts if following best practices to the extent possible, especially those as outlined and maintained by [ConsenSys Diligence](https://consensys.github.io/smart-contract-best-practices/).
 
 ### Vulnerability Policy
 

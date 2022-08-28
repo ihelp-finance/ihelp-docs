@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Philanthropy Industry](philanthropy-industry.md)
-* [Terms & Risks of Use](terms.md)
 
 ## Donations <a href="#getting-started" id="getting-started"></a>
 
@@ -44,3 +43,4 @@
 
 * [Official Links](ecosystem/official-links.md)
 * [Press Kit & Branding Assets](ecosystem/press-kit-and-branding-assets.md)
+* [Terms & Risks of Use](ecosystem/terms.md)

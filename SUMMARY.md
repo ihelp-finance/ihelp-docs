@@ -43,3 +43,4 @@
 
 * [Official Links](ecosystem/official-links.md)
 * [Press Kit & Branding Assets](ecosystem/press-kit-and-branding-assets.md)
+* [Terms & Risks of Use](ecosystem/terms-and-risks-of-use.md)

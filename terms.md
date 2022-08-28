@@ -1,6 +1,5 @@
 ---
 description: 'Disclaimer: Risks of Using Protocol'
-layout: landing
 ---
 
 # Terms & Risks of Use

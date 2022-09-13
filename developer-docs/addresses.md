@@ -18,6 +18,8 @@ description: >-
 
 **Analytics:** [0xa3eF2e6C687F18ABE09ae65e04460135eb9f0364](https://snowtrace.io/address/0xa3eF2e6C687F18ABE09ae65e04460135eb9f0364)
 
+**PriceFeedProvider:** [0x47Fdf3FB0c2B51b5E8Fad4D4278e7c592e646c97](https://snowtrace.io/address/0x47Fdf3FB0c2B51b5E8Fad4D4278e7c592e646c97)
+
 **CharityPools:** available on [dapp](https://app.ihelp.finance)
 {% endtab %}
 
